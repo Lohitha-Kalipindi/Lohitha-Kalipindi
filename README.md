@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lohitha</h1>
 <h3 align="center">🚀 Django Developer | ML Enthusiast | Data Science Explorer</h3>
 
+<p align="center">
+  <img src="https://i.postimg.cc/ZRmvvNW5/Leonardo-Phoenix-09-A-young-woman-with-a-ponytail-and-spectacl-0.jpg" alt="Lohitha Coding" width="100%"/>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohitha-kalipindi&label=Profile%20views&color=0e75b6&style=flat" alt="lohitha-kalipindi" /> </p>
 
 ## 👩‍💻 About Me  
